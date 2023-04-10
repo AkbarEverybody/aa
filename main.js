@@ -13,4 +13,4 @@ function myFunction(type, text, color) {
     },
   };
 }
-myFunction("h1", "hahaha", "red");
+myFunction("h1", "hihi", "red");
